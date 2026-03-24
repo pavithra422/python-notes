@@ -1,0 +1,10 @@
+print("hello world")
+print("*" * 10)
+course = "python program"
+print(course.strip())
+print(course.upper())
+print(course.lower())
+print(course.find("pro"))
+print("pro" in course)
+print("swift" not in course)
+print(10 // 3)
